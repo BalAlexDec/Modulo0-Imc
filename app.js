@@ -1,9 +1,9 @@
 
 
 function imc(){
-  var height = prompt("Introdueix la teva altura, Sense . ","");
+  var height = prompt("Introduce tu altura, Sin .","");
 
-  var weight = prompt("Introdueix el teu pes","");
+  var weight = prompt("Introduce tu peso","");
   height = height/100;
   console.log(height);
   
